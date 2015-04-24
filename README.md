@@ -8,7 +8,7 @@ See the [parent GitHub project](https://github.com/mattmeisinger/custom-instance
 
 ## Installation
 
-NuGet:
+[NuGet](https://www.nuget.org/packages/CustomInstanceStore.Neo4j)
 
 	package-install CustomInstanceStore.Neo4j
 
