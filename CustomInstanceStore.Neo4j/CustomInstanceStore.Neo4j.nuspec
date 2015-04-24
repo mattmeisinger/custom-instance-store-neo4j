@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Matt Meisinger</authors>
+    <owners>Matt Meisinger</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/mattmeisinger/custom-instance-store-neo4j</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>Neo4j Windows Workflow Foundation WF InstanceStore</tags>
+    <dependencies>
+      <dependency id="CustomInstanceStore" version="0.9" />
+    </dependencies>
+  </metadata>
+</package>
